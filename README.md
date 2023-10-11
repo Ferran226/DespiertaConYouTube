@@ -21,7 +21,7 @@ Este reloj despertador es muy fácil de usar. Solo tienes que seguir estos pasos
 Solo tienes que ubicar la línea que contiene la variable `ALARMA_URL` y reemplazarla con la URL del video de tu elección:
 
 `python`
-# URL específico a reproducir cuando se active la alarma
+## URL específico a reproducir cuando se active la alarma
 ALARMA_URL = "https://www.youtube.com/watch?v=j7dAe8vzFkw"
 
 ## Características Geniales 🌟
