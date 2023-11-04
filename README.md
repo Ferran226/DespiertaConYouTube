@@ -38,7 +38,7 @@ You're all set to have fun and energetic mornings with your new YouTube Alarm Cl
 
 This project was created with love by Ferran226 and many happy lines of code 😊. Enjoy!
 
-<br>
+---
 
 # 🇪🇸 Reloj Despertador con Reproducción de YouTube 🕒📺
 
