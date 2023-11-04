@@ -1,4 +1,46 @@
-# Reloj Despertador con Reproducción de YouTube 🕒📺
+# 🇺🇸 YouTube Alarm Clock ⏰📺
+
+Welcome to your YouTube Alarm Clock! 😴⏰
+
+This project is simply amazing 🚀, and we've created it to make your mornings more exciting 🎉. Here's a quick and fun guide on how to use it.
+
+## How It Works? 🤓
+
+This alarm clock is very easy to use. Just follow these steps:
+
+1. Open the app 📱.
+2. Enter the hour 🕰️ and minutes ⌛ in the input boxes. Don't worry if you make a mistake; we'll let you know 😅.
+3. Click the "Set Alarm" button! 🚀
+
+That's it! The alarm is set 🎈. Now, our app will continuously check the current time ⏲️ to know when it's time to activate the alarm 🚨. When that moment arrives, it will notify you with a cheerful message 🥳 and play your favorite YouTube video 🎵🎥.
+
+## Customize Your Wake-up! 🌈
+
+We want you to feel in control! Within the code, you'll find the YouTube URL that will play when the alarm goes off. Change this URL to your favorite channel to ensure you wake up with what you love the most! 🤩
+
+Simply locate the line containing the variable `ALARM_URL` and replace it with the URL of your chosen video:
+
+`python`
+## Specific URL to play when the alarm goes off
+ALARM_URL = "https://www.youtube.com/watch?v=j7dAe8vzFkw"
+
+## Cool Features 🌟
+
+- You'll always know the current time in real-time thanks to our live display ⏰.
+- Our app is super user-friendly and will keep you informed while you wait for the alarm. You'll always know how much time is left ⏳.
+- Forget setting multiple alarms; this alarm clock takes care of everything for you ⏱️.
+
+## Ready to Get Started 🚴‍♂️
+
+You're all set to have fun and energetic mornings with your new YouTube Alarm Clock! Don't forget to share your experience and project on GitHub so that others can enjoy it too 🎉. Wake up with a smile! 😄🌞
+
+## Credits 👏
+
+This project was created with love by Ferran226 and many happy lines of code 😊. Enjoy!
+
+<br>
+
+# 🇪🇸 Reloj Despertador con Reproducción de YouTube 🕒📺
 
 ¡Bienvenido a tu Reloj Despertador con Reproducción de YouTube! 😴⏰
 
